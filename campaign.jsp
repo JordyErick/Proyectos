@@ -59,6 +59,7 @@
                 <td>0</td>
                 <td>0</td>
                 <td>0</td>
+                <td><span class="new badge red" data-badge-caption="FINALIZO"></span></td>
             </tr>
         </tbody>
     </table>            
